@@ -1,0 +1,26 @@
+{
+  "routingNumbers": [
+    {
+      "routingNumber": "053208066",
+      "bankName": "AMERIS BANK",
+      "address": "24 SECOND AVENUE SE",
+      "city": "MOULTRIE",
+      "state": "GA"
+    },
+    {
+      "routingNumber": "061020786",
+      "bankName": "AMERIS BANK",
+      "address": "24 SECOND AVENUE SE",
+      "city": "MOULTRIE",
+      "state": "GA"
+    },
+    {
+      "routingNumber": "061201673",
+      "bankName": "AMERIS BANK",
+      "address": "24 SECOND AVENUE SE",
+      "city": "MOULTRIE",
+      "state": "GA"
+    }
+    // Add all your other routing numbers here
+  ]
+}
